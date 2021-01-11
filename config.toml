@@ -17,7 +17,7 @@ enableRobotsTXT = true
   filename = "sitemap.xml"
 
 [params]
-  favicon = ""
+  favicon = "/images/profile.png"
   site_logo = ""
   custom_css = ["styles/amazon.css", "styles/global.css"]
   description = "勉強したことなどをアウトプットしていきたいブログ"
