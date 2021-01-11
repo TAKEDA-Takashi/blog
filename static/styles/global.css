@@ -1,13 +1,33 @@
 .japanese {
-    font-family: Myriad, Helvetica, Arial, "Meiryo", "メイリオ", sans-serif;
+  font-family: Myriad, Helvetica, Arial, "Meiryo", "メイリオ", sans-serif;
+}
+
+table,
+th,
+td {
+  border-collapse: collapse;
+  border: 1px solid #ccc;
+  line-height: 1.5;
+}
+
+table th {
+  padding: 10px;
+  font-weight: bold;
+  vertical-align: top;
+  background: #3f3f3f;
+  color: #ffffff;
+}
+table td {
+  padding: 10px;
+  vertical-align: top;
 }
 
 .hatenabookmark {
-    fill: #BABABA;
-    margin-left: 4px;
-    margin-right: 4px;
+  fill: #bababa;
+  margin-left: 4px;
+  margin-right: 4px;
 }
 
 .hatenabookmark:hover {
-    fill: #00a4de;
+  fill: #00a4de;
 }
