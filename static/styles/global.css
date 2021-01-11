@@ -4,6 +4,8 @@
 
 .hatenabookmark {
     fill: #BABABA;
+    margin-left: 4px;
+    margin-right: 4px;
 }
 
 .hatenabookmark:hover {
