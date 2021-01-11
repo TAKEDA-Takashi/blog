@@ -1,1 +1,14 @@
+<style>
+.slide-content {
+    display: none;
+}
+</style>
 <script type="text/javascript" src="https://b.st-hatena.com/js/bookmark_button.js" charset="utf-8" async="async"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+<script>
+$(function() {
+    $('.slide-panel .slide-btn').on('click', function() {
+        $(this).siblings('.slide-content').slideToggle('normal');
+    });
+})
+</script>
