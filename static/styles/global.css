@@ -1,3 +1,11 @@
 .japanese {
     font-family: Myriad, Helvetica, Arial, "Meiryo", "メイリオ", sans-serif;
 }
+
+.hatenabookmark {
+    fill: #BABABA;
+}
+
+.hatenabookmark:hover {
+    fill: #00a4de;
+}
