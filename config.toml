@@ -9,6 +9,7 @@ summaryLength = 200
 SectionPagesMenu = "main"
 Paginate = 9 # this is set low for demonstrating with dummy content. Set to a higher number
 googleAnalytics = "UA-110394052-1"
+disqusShortname = "high-novice"
 enableRobotsTXT = true
 
 [sitemap]
