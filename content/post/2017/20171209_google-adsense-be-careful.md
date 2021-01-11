@@ -4,7 +4,7 @@ summary: ""
 description: ""
 date: 2017-12-09 03:00:00 +0900 JST
 categories: ""
-tags: ["", ""]
+tags: ["Google AdSense", "Google Analytics", "Google Search Console"]
 slug: google-adsense-be-careful
 archives:
     - 2017
