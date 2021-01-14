@@ -39,6 +39,7 @@ enableRobotsTXT = true
   background_color_class = "bg-black"
   featured_image = "/images/default-site-top-image.jpg"
   recent_posts_number = 3
+  images = ["/images/profile.png"]
 
 [permalinks]
   post = "/entry/:year/:month/:day/:slug/"
