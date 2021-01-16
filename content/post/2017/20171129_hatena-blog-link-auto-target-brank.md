@@ -2,6 +2,7 @@
 title: はてなブログの記事内の外部リンクにtarget="_blank"を自動で追加する
 summary: ""
 description: ""
+toc: false
 date: 2017-11-29 03:00:00 +0900 JST
 categories: "Tips"
 tags: ["HTML", "JavaScript"]

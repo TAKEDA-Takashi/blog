@@ -2,6 +2,7 @@
 title: Vagrantで起動したCentOS 7に日本語ロケールがない問題
 summary: ""
 description: ""
+toc: true
 date: 2017-12-25 01:40:00 +0900 JST
 categories: "Linux"
 tags: ["Linux", "Vagrant", "CentOS"]

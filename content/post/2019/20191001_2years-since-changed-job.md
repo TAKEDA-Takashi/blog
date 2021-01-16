@@ -2,6 +2,7 @@
 title: 転職して丸2年が経っていました
 summary: ""
 description: ""
+toc: true
 date: 2019-10-01 23:30:00 +0900 JST
 categories: "その他"
 tags: ["振り返り"]

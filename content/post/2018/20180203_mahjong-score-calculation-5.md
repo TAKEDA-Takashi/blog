@@ -2,6 +2,7 @@
 title: 麻雀の点数計算を身につける その5（符の計算）
 summary: ""
 description: ""
+toc: true
 date: 2018-02-03 00:00:00 +0900 JST
 categories: "麻雀"
 tags: ["麻雀"]

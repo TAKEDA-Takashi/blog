@@ -2,6 +2,7 @@
 title: textlint-filter-rule-whitelistが外部ファイルに対応しました（v1.2.1）
 summary: ""
 description: ""
+toc: false
 date: 2017-12-02 23:00:00 +0900 JST
 categories: "textlint"
 tags: ["textlint", "JavaScript"]

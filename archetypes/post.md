@@ -4,6 +4,7 @@
 title: {{ replace $title "-" " " | title }}
 summary: ""
 description: ""
+toc: false
 date: {{ $date }}
 categories: ""
 tags: ["", ""]

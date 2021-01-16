@@ -2,6 +2,7 @@
 title: 麻雀の点数計算を身につける その4（満貫、跳満、倍満、3倍満、役満、ダブル役満の点数）
 summary: ""
 description: ""
+toc: true
 date: 2018-01-29 00:00:00 +0900 JST
 categories: "麻雀"
 tags: ["麻雀"]

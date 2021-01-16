@@ -39,6 +39,7 @@ enableRobotsTXT = true
   background_color_class = "bg-black"
   featured_image = "/images/default-site-top-image.jpg"
   recent_posts_number = 3
+  # using Twitter card
   images = ["/images/profile.png"]
 
 [permalinks]

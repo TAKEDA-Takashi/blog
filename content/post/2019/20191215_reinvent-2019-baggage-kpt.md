@@ -2,6 +2,7 @@
 title: re:Invent 2019に参加してきたので持ち物のKPTを実施した
 summary: ""
 description: ""
+toc: true
 date: 2019-12-15 02:40:00 +0900 JST
 categories: "AWS"
 tags: ["AWS", "re:Invent"]

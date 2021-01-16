@@ -2,6 +2,7 @@
 title: 麻雀の点数計算を身につける その1（30符、40符、50符、70符の点数）
 summary: ""
 description: ""
+toc: true
 date: 2018-01-26 02:00:00 +0900 JST
 categories: "麻雀"
 tags: ["麻雀"]

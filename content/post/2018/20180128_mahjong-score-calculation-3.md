@@ -2,6 +2,7 @@
 title: 麻雀の点数計算を身につける その3（ツモ時の点数）
 summary: ""
 description: ""
+toc: true
 date: 2018-01-28 00:00:00 +0900 JST
 categories: "麻雀"
 tags: ["麻雀"]

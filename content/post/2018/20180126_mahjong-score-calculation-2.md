@@ -2,6 +2,7 @@
 title: 麻雀の点数計算を身につける その2（20符、25符、60符、80符、90符、100符、110符の点数）
 summary: ""
 description: ""
+toc: true
 date: 2018-01-26 23:30:00 +0900 JST
 categories: "麻雀"
 tags: ["麻雀"]
